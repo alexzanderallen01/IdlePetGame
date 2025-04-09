@@ -30,7 +30,8 @@ a lot to be able to detect when keys are pressed, where the mouse is looking, ec
 
 * [packtpub](https://www.packtpub.com/en-us/product/intro-to-unity-game-development-made-easy-9781837029952)
     I followed this intro to unity tutoral in oder to learn the basics of unity's tools and the basics of
-    how I can use C# with unity to do things.
+    how I can use C# with unity to do things. This give me the foundation needed to create my own project
+    and try to do things my self.
 * [assetstore](https://assetstore.unity.com) This website was the most useful site for me once I gained a
     basic understanding of how to use unity as it allowed me to easily get good looking assets for free.
     Without this site this game would be made out of colored blocks and spheres.
